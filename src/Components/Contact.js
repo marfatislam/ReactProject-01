@@ -75,7 +75,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="row">
-                      <div className="col-12 contact-input-field">
+                      <div className="col-12 ">
                         <input
                           type="text"
                           name=""
