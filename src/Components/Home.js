@@ -4,7 +4,7 @@ import Header from './Header';
 import HowItWorks from './HowItWorks';
 import Aboutus from './Aboutus';
 import Services from './Services';
-import Contact from './Contact';
+import Contact from './Contactus';
 import Footer from './Footer';
 
 function Home() {
